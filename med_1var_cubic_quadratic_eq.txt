@@ -1,0 +1,23 @@
+ax\quad +\quad b\quad =\quad 0,\quad a\quad \neq \quad 0\\ x\quad =\quad \frac { -b }{ a }
+
+a{ x }^{ 2 }\quad +\quad bx\quad +\quad c\quad =\quad 0,\quad a\quad \neq \quad 0\\ a({ x }^{ 2 }\quad +\quad 2(\frac { b }{ 2a } )x\quad +\quad ({ \frac { b }{ 2a } ) }^{ 2 })\quad +\quad (c\quad -\quad \frac { { b }^{ 2 } }{ 4{ a } } )\\ =\quad a{ (x\quad +\quad \frac { b }{ 2a } ) }^{ 2 }\quad +\quad \frac { 4ac\quad -\quad { b }^{ 2 } }{ 4a } \quad =\quad 0\\ x\quad =\quad \frac { -b\quad \pm \quad \sqrt { { b }^{ 2 }\quad -\quad 4ac }  }{ 2a }
+
+a{ x }^{ 3 }\quad +\quad b{ x }^{ 2 }\quad +\quad cx\quad +\quad d\quad =\quad 0,\quad a\quad \neq \quad 0\\ \\ ({ u\quad +\quad v) }^{ 3 }\quad =\quad { u }^{ 3 }\quad +\quad 3{ u }^{ 2 }v\quad +\quad 3u{ v }^{ 2 }\quad +\quad { v }^{ 3 }\\ \\ a{ ({ x }^{ 3 }\quad +\quad 3(\frac { b }{ 3a } ){ x }^{ 2 }\quad +\quad 3{ (\frac { b }{ 3a } ) }^{ 2 }x\quad +\quad { (\frac { b }{ 3a } ) }^{ 3 })\quad -\quad a*3 }{ (\frac { b }{ 3a } ) }^{ 2 }x\quad -\quad { (\frac { b }{ 3a } ) }^{ 3 }\quad +\quad cx\quad +\quad d\\ =\quad a{ (x\quad +\quad (\frac { b }{ 3a } )) }^{ 3 }\quad +\quad (c\quad -\quad \frac { { b }^{ 2 } }{ 3a } )x\quad +\quad (d\quad -\quad \quad { (\frac { b }{ 3a } ) }^{ 3 })\quad =\quad 0
+
+{ x }^{ 3 }\quad +\quad px\quad +\quad q\quad =\quad 0
+
+({ u\quad +\quad v) }^{ 3 }\quad =\quad ({ u }^{ 3 }\quad +\quad { v }^{ 3 })\quad +\quad 3uv(u\quad +\quad v)\\ ({ u\quad +\quad v) }^{ 3 }\quad -\quad 3uv(u\quad +\quad v)\quad -\quad ({ u }^{ 3 }\quad +\quad { v }^{ 3 })\quad =\quad 0
+
+x\quad =\quad u\quad +\quad v
+
+\left\{ \begin{matrix} p\quad =\quad -3uv \\ q\quad =\quad -\quad ({ u }^{ 3 }\quad +\quad { v }^{ 3 }) \end{matrix} \right 
+
+{ u }^{ 3 }\quad +\quad { v }^{ 3 }\quad +\quad q\quad =\quad { u }^{ 3 }\quad +\quad ({ \frac { -p }{ 3u } ) }^{ 3 }\quad +\quad q\quad =\quad 0\\ { u }^{ 6 }\quad +\quad q{ u }^{ 3 }\quad -\quad \frac { { p }^{ 3 } }{ 27 } \quad =\quad 0
+
+{ x }^{ 3 }\quad +\quad x\quad -\quad 2\quad =\quad 0\\ { u }^{ 3 }\quad =\quad 1\quad +\quad \sqrt { \frac { 28 }{ 27 }  } \\ { v }^{ 3 }\quad =\quad 1\quad -\quad \sqrt { \frac { 28 }{ 27 }  } \\ x\quad =\quad u\quad +\quad v\quad =\quad …..
+
+{ x }^{ 3 }\quad +\quad x\quad -\quad 2\quad =\quad 0\\ (x\quad -\quad 1)({ x }^{ 2 }\quad +\quad x\quad +\quad 2)\quad =\quad 0
+
+a{ x }^{ 4 }\quad +\quad b{ x }^{ 3 }\quad +\quad c{ x }^{ 2 }\quad +\quad dx\quad +\quad e\quad =\quad 0,\quad a\quad \neq \quad 0\\ \\ { ({ x }^{ 2 }\quad +\quad \frac { b }{ 2a } x) }^{ 2 }\quad =\quad (\frac { { b }^{ 2 } }{ 4{ a }^{ 2 } } \quad -\quad \frac { c }{ a } ){ x }^{ 2 }\quad -\quad \frac { d }{ a } x\quad -\quad e
+
+{ ({ x }^{ 2 }\quad +\quad \frac { b }{ 2a } x) }^{ 2 }\quad +\quad 2({ x }^{ 2 }\quad +\quad \frac { b }{ 2a } x)k\quad +\quad { k }^{ 2 }\\ =\quad (\frac { { b }^{ 2 } }{ 4{ a }^{ 2 } } \quad -\quad \frac { c }{ a } \quad +\quad 2k){ x }^{ 2 }\quad +\quad (\frac { b }{ a } k\quad -\quad \frac { d }{ a } )x\quad +\quad ({ k }^{ 2 }\quad -\quad e)\\ \\ { (({ x }^{ 2 }\quad +\quad \frac { b }{ 2a } x)\quad +\quad k) }^{ 2 }\quad \\ =\quad (\frac { { b }^{ 2 } }{ 4{ a }^{ 2 } } \quad -\quad \frac { c }{ a } \quad +\quad 2k){ x }^{ 2 }\quad +\quad (\frac { b }{ a } k\quad -\quad \frac { d }{ a } )x\quad +\quad ({ k }^{ 2 }\quad -\quad e)
